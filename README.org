@@ -1,0 +1,17 @@
+* PyTorch implementations of deep models 
+
+** DESCRIPTION
+
+   
+   
+** SEE ALSO
+   - [[https://pytorch.org/docs/stable/index.html][PyTorch Documentation]]
+   - [[https://github.com/masa-su/pixyz][pixyz]]
+     PyTorch-based deep learning library for higher-level programming.
+   - [[https://github.com/rwightman/pytorch-image-models][Image models by Ross Wightman]]
+     Collection of models for image tasks.
+   - [[https://github.com/YutaroOgawa/pytorch_advanced][つくりながら学ぶ! PyTorchによる発展ディープラーニング]]
+     Various deep learning models for various tasks such as image/video classification, generation, anomaly detection, and sentiment analysis.
+     Available models: VGG, SSD, PSPNet, OpenPose, DCGAN, Self-Attention GAN, AnoGAN, Efficient GAN, Transformer, BERT, 3DCNN, ECO
+   - [[https://github.com/moskomule/senet.pytorch][SENet]]
+
